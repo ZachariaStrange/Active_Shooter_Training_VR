@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Start Screen/Start Screen.unity
     guid: 1ea7a5d2a23ad4dc38e797466045e8af
   - enabled: 1
-    path: Assets/school/DemoScene/all_.unity
+    path: Assets/school/Game Scene/Game.unity
     guid: 378551c9dbb787b4f9dd2e04ec1454e5
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 46952aff7fe8d384283a3bfe4f4ed1e6, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ad1b0f562dc99404fa6bc84db281b63c, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: cb6cc59129ed5ef489d19490e727d62b, type: 2}
