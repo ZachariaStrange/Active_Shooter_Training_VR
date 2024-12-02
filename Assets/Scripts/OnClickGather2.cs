@@ -29,7 +29,7 @@ public class OnClickGather2 : MonoBehaviour
 
     public void GoToTarget()
     {
-        UnityEngine.Vector3 target = new UnityEngine.Vector3(1.5f, 0f, 3f);
+        UnityEngine.Vector3 target = new UnityEngine.Vector3(2f, 0f, 3f);
         targetPosition = target;
         isWalking = true;
         animator.SetBool("move", true); //set animation to walk (aka move)
