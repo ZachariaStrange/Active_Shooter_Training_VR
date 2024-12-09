@@ -45,4 +45,9 @@ public class OnClickGather : MonoBehaviour
             animator.SetBool("move", false);
         }
     }
+
+    public void StopMovement()
+    {
+        isWalking = false;
+    }
 }
