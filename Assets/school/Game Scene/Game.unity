@@ -3128,6 +3128,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1316707747}
+        m_TargetAssemblyTypeName: OnClickScramble, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &242713394
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10989,6 +11001,22 @@ MonoBehaviour:
   moveSpeed: 1
   targetPosition: {x: -3, y: 0, z: 8.75}
   exitRun3: {fileID: 1836224652}
+--- !u!114 &744090318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744090305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d486a2f4a5b040b089339e8e1337ca1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 1
+  moveInterval: 2
+  roomMin: {x: -5, y: 0, z: 0}
+  roomMax: {x: 10, y: 0, z: 10}
 --- !u!1 &760518997
 GameObject:
   m_ObjectHideFlags: 0
@@ -14200,6 +14228,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7506748393143128948, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
       insertIndex: -1
       addedObject: {fileID: 744090317}
+    - targetCorrespondingSourceObject: {fileID: 7506748393143128948, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 744090318}
   m_SourcePrefab: {fileID: 100100000, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
 --- !u!1 &992687942
 GameObject:
@@ -15163,6 +15194,22 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[9].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[5].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[5].m_TargetAssemblyTypeName
+      value: OnClickScramble, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[5].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1674762376745480738, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -15778,6 +15825,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7506748393143128948, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1120967736}
+    - targetCorrespondingSourceObject: {fileID: 7506748393143128948, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1120967737}
   m_SourcePrefab: {fileID: 100100000, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
 --- !u!1 &1120967726 stripped
 GameObject:
@@ -15903,6 +15953,22 @@ MonoBehaviour:
   moveSpeed: 1
   targetPosition: {x: -3, y: 0, z: 8.5}
   exitRun3: {fileID: 1836224652}
+--- !u!114 &1120967737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1120967726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eab1426987c34960bf8f4b5bdc0163c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 1
+  moveInterval: 2
+  roomMin: {x: -5, y: 0, z: 0}
+  roomMax: {x: 10, y: 0, z: 10}
 --- !u!1 &1135888433
 GameObject:
   m_ObjectHideFlags: 0
@@ -16352,6 +16418,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7506748393143128948, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1316707746}
+    - targetCorrespondingSourceObject: {fileID: 7506748393143128948, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1316707747}
   m_SourcePrefab: {fileID: 100100000, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
 --- !u!1 &1161594584
 GameObject:
@@ -19105,6 +19174,22 @@ MonoBehaviour:
   moveSpeed: 1
   targetPosition: {x: -3, y: 0, z: 9}
   exitRun3: {fileID: 1836224652}
+--- !u!114 &1316707747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1316707734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a074fbb5a0f1409c9f24831aff82f5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 1
+  moveInterval: 2
+  roomMin: {x: -5, y: 0, z: 0}
+  roomMax: {x: 10, y: 0, z: 10}
 --- !u!1001 &1323292181
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19855,6 +19940,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7506748393143128948, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1382234061}
+    - targetCorrespondingSourceObject: {fileID: 7506748393143128948, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1382234062}
   m_SourcePrefab: {fileID: 100100000, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
 --- !u!1 &1382234052 stripped
 GameObject:
@@ -19964,6 +20052,18 @@ MonoBehaviour:
   moveSpeed: 1
   targetPosition: {x: -3, y: 0, z: 8}
   exitRun3: {fileID: 1836224652}
+--- !u!114 &1382234062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1382234052}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aab0933b7df424586a263fb11e4bae01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1391340991
 GameObject:
   m_ObjectHideFlags: 0
@@ -20632,6 +20732,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7506748393143128948, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1404679900}
+    - targetCorrespondingSourceObject: {fileID: 7506748393143128948, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1404679901}
   m_SourcePrefab: {fileID: 100100000, guid: 73543e1548e024ee5a71c4c39766822b, type: 3}
 --- !u!95 &1404679891 stripped
 Animator:
@@ -20741,6 +20844,22 @@ MonoBehaviour:
   moveSpeed: 1
   targetPosition: {x: -3, y: 0, z: 8.25}
   exitRun3: {fileID: 685444655}
+--- !u!114 &1404679901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1404679892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de6d5bfc6c7d742368ce614711ea066c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 1
+  moveInterval: 2
+  roomMin: {x: -5, y: 0, z: 0}
+  roomMax: {x: 10, y: 0, z: 10}
 --- !u!1 &1414723155
 GameObject:
   m_ObjectHideFlags: 0
