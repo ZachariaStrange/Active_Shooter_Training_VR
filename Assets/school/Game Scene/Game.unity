@@ -3140,6 +3140,54 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 744090318}
+        m_TargetAssemblyTypeName: OnClickScramble2, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1120967737}
+        m_TargetAssemblyTypeName: OnClickScramble3, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1404679901}
+        m_TargetAssemblyTypeName: OnClickScramble4, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1382234062}
+        m_TargetAssemblyTypeName: OnClickScramble5, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &242713394
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3852,6 +3900,66 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1316707747}
+        m_TargetAssemblyTypeName: OnClickScramble, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 744090318}
+        m_TargetAssemblyTypeName: OnClickScramble2, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1120967737}
+        m_TargetAssemblyTypeName: OnClickScramble3, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1404679901}
+        m_TargetAssemblyTypeName: OnClickScramble4, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1382234062}
+        m_TargetAssemblyTypeName: OnClickScramble5, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &306042855
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4025,6 +4133,66 @@ MonoBehaviour:
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1316707747}
+        m_TargetAssemblyTypeName: OnClickScramble, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 744090318}
+        m_TargetAssemblyTypeName: OnClickScramble2, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1120967737}
+        m_TargetAssemblyTypeName: OnClickScramble3, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1404679901}
+        m_TargetAssemblyTypeName: OnClickScramble4, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1382234062}
+        m_TargetAssemblyTypeName: OnClickScramble5, Assembly-CSharp
+        m_MethodName: ScrambleToRandomPosition
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -15196,10 +15364,26 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 6
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[5].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[6].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[7].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[8].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[9].m_MethodName
       value: ScrambleToRandomPosition
       objectReference: {fileID: 0}
     - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
@@ -15207,12 +15391,108 @@ PrefabInstance:
       value: OnClickScramble, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[6].m_TargetAssemblyTypeName
+      value: OnClickScramble2, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[7].m_TargetAssemblyTypeName
+      value: OnClickScramble3, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[8].m_TargetAssemblyTypeName
+      value: OnClickScramble4, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[9].m_TargetAssemblyTypeName
+      value: OnClickScramble5, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[5].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[6].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[7].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[8].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1262548592277090783, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[9].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 1674762376745480738, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[5].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[6].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[7].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[8].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[9].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[5].m_TargetAssemblyTypeName
+      value: OnClickScramble, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[6].m_TargetAssemblyTypeName
+      value: OnClickScramble2, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[7].m_TargetAssemblyTypeName
+      value: OnClickScramble3, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[8].m_TargetAssemblyTypeName
+      value: OnClickScramble4, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[9].m_TargetAssemblyTypeName
+      value: OnClickScramble5, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[5].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[6].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[7].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[8].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3462839651803978661, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[9].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 4808178523318758450, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
       propertyPath: m_Pivot.x
@@ -15361,6 +15641,70 @@ PrefabInstance:
     - target: {fileID: 5968626145420320465, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
       propertyPath: m_Name
       value: Choices
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[5].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[6].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[7].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[8].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[9].m_MethodName
+      value: ScrambleToRandomPosition
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[5].m_TargetAssemblyTypeName
+      value: OnClickScramble, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[6].m_TargetAssemblyTypeName
+      value: OnClickScramble2, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[7].m_TargetAssemblyTypeName
+      value: OnClickScramble3, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[8].m_TargetAssemblyTypeName
+      value: OnClickScramble4, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[9].m_TargetAssemblyTypeName
+      value: OnClickScramble5, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[5].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[6].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[7].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[8].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 7378405623254065849, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[9].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 7683062581185495730, guid: 66008adedebb3814caedd0de7d6e3e7f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -20064,6 +20408,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aab0933b7df424586a263fb11e4bae01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moveSpeed: 1
+  moveInterval: 2
+  roomMin: {x: -5, y: 0, z: 0}
+  roomMax: {x: 10, y: 0, z: 10}
 --- !u!1 &1391340991
 GameObject:
   m_ObjectHideFlags: 0
